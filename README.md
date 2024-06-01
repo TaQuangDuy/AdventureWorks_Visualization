@@ -1,9 +1,9 @@
 
 # AdventureWorks Database Visualization with PowerBI
 ## Introduction
-This project explores the power of PowerBI in visualizing data with AdventureWorks database with the help of Microsoft SQL Sever in query editing. The database that was used for visualization & analysis was AdventureWorks.
+This project explores the power of PowerBI in visualizing data with AdventureWorks database with the help of Microsoft SQL Server in query editing. The database that was used for visualization & analysis was AdventureWorks.
 
-Query editing tool: MSSQL Sever
+Query editing tool: MSSQL Server
 
 Visualization tool: Power BI
 
@@ -18,7 +18,7 @@ i, Employee Dashboard
 
 ![Screenshot](Dashoards/EmployeeDashboard.png)
 
-ii, Sales Overview Dashboad
+ii, Sales Overview Dashboard
 
 ![Screenshot](Dashoards/SalesOverviewDashboard.png)
 =======
