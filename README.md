@@ -14,7 +14,7 @@ Database link: https://learn.microsoft.com/en-us/sql/samples/adventureworks-inst
 ![Screenshot](Dashoards/EntityRelationshipDiagram.png)
 
 ## Dashboard
-i, Employee Dashboard
+i, Employee Details Dashboard
 
 ![Screenshot](Dashoards/EmployeeDashboard.png)
 
